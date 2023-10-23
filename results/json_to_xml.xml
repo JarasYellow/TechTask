@@ -1,0 +1,24 @@
+<Employee>
+    <Fullname>George</Fullname>
+    <Characteristics>
+        <Sex>male</Sex>
+        <Age>27</Age>
+    </Characteristics>
+    <Skills>
+        <Skill>smart</Skill>
+        <Skill>strong</Skill>
+    </Skills>
+    <Experiences>
+        <Experience>
+            <Position>developer</Position>
+            <Workplace>netflix</Workplace>
+            <Salary>7000</Salary>
+        </Experience>
+        <Experience>
+            <Position>engineer</Position>
+            <Workplace>facebook</Workplace>
+            <ID_Card>56117</ID_Card>
+            <Country>Scotland</Country>
+        </Experience>
+    </Experiences>
+</Employee>
