@@ -1,0 +1,5 @@
+json
+pandas
+bs4
+requests
+xml
